@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Geen!👋</h1>
   <p>Welcome to my little corner of the internet where code comes to life (and sometimes dies a fiery death😅).</p>
-  <img src="https://pin.it/6E8TW7fyR"  width="200">
+  <img src="https://i.pinimg.com/1200x/63/9d/f2/639df21c1aa39fd703868f9690ac832d.jpg"  width="200">
 </div>
 
 ---
