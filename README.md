@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Njc2F0N293d25zYjZtZHQ1M3Q5b2Y3a2s0c2J6b2h0eXN2bW92eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPwo2k9rX4R9qgU/giphy.gif" width="200">
+  <img src="Kiki's Delivery Service GIF.gif" width="200">
   <h1>Hi there, I'm Geen!👋</h1>
   <p>Welcome to my little corner of the internet where code comes to life (and sometimes dies a fiery death😅).</p>
 </div>
