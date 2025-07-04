@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/be/7b/f1/be7bf1db1914f570b0882e8f0844418c.jpg" width="200">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd255c3c0a21hY295aG80d3I0ZzF2dG1hOTI2eXJ2ZzI2dGN2ZG55dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlSZ72F9zX008lO/giphy.gif" width="200">
   <h1>Hi there, I'm Geen!👋</h1>
   <p>Welcome to my little corner of the internet where code comes to life (and sometimes dies a fiery death😅).</p>
 </div>
