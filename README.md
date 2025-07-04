@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey there, I'm Geen!👋</h1>
+  <h1>Hi there, I'm Geen!👋</h1>
   <p>Welcome to my little corner of the internet where code comes to life (and sometimes dies a fiery death😅).</p>
 </div>
 
@@ -8,7 +8,7 @@
 ### About Me:
 
 * 💻 I’m interested in, game development and Software Engineering.
-* 🌱 I’m looking to collaborate on, anyhing in my area of expertise
+* 🌱 I’m looking to collaborate on, anyhing in my area of expertise.
 * 👀 When I'm not coding, you can probably find me lost in the pages of a novel.
 
 ### Let's Connect!
