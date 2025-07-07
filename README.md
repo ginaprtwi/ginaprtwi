@@ -8,7 +8,7 @@
 
 ### About Me:
 
-* 💻 I’m interested in, game development and Software Engineering.
+* 💻 I’m interested in game development.
 * 🌱 I’m looking to collaborate on, anyhing in my area of expertise.
 * 👀 When I'm not coding, you can probably find me lost in the pages of a novel.
 
